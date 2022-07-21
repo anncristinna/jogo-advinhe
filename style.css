@@ -1,0 +1,21 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    width: 50%;
+    max-width: 800px;
+    min-width: 580px;
+    margin: 0px;
+    background-color:#82A3A1 ;
+}
+
+main {
+    align-items: center;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.199);
+    background-color: white;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 10px;
+}
